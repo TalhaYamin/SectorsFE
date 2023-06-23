@@ -30,7 +30,7 @@ const Sectors = () => {
             const response = await api.post("/user", {
 
                 Name: name,
-                Sector: selectedSectors,
+                Sector: selectedSectors?.sectorName,
                 AgreeToTerms: terms
 
             });
