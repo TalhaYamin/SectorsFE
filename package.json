@@ -2,6 +2,7 @@
   "name": "sectors_test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sectors-fe-4gzz-5qq38j4o1-talhayamin.vercel.app",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
